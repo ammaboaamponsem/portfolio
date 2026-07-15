@@ -1,9 +1,9 @@
 # Professional Portfolio
 
-My personal portfolio showcasing my projects, technical skills, and professional experience.
+A minimalist portfolio web design.
 
 ### Tech Stack
 - HTML, CSS, JavaScript
 
 ### Live Demo
-[View Live Project](https://amma-portfolio.netlify.app)
+[View Live Project](https://astonishing-scone-d7be53.netlify.app/)
